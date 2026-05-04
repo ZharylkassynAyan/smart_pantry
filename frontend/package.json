@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npx react-scripts build"
+    "build": "npx run build"
   },
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],
