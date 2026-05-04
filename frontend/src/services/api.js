@@ -1,4 +1,4 @@
-const BASE_URL = '/api';
+const BASE_URL = 'https://smart-pantry-b.onrender.com/api';
 
 // Helper: get auth headers
 const authHeaders = () => {
